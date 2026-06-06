@@ -57,9 +57,7 @@ My background includes Computer Science and Engineering, CCNA-level networking k
 ### Network Engineering Portfolio
 A growing collection of professional networking labs with topology diagrams, CLI configuration, verification commands, troubleshooting notes, and interview explanations.
 
-Repository name to create:
-
-```text
+Repository: https://github.com/mohamedbukutjr-create/Network-Engineering-Portfolio```text
 Network-Engineering-Portfolio
 ```
 
